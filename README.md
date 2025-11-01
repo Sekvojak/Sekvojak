@@ -33,8 +33,8 @@
 | Projekt | Popis |
 |--------|-------|
 | 🐸 **FrogMan (Java Game)** | Hra v Jave so Spring backendom + JavaFX frontendom |
-| 🎨 **ZPG Project** | Základy počítačovej grafiky — OpenGL rendering & 3D scéna |
-| 🎓 Školské projekty | C/C++ algoritmy, systémové projekty, menšie Java appky |
+| 🎨 **ZPG Project** | Základy počítačovej grafiky — OpenGL rendering & 3D scény |
+| 🎓 Školské projekty | Sokoban hra pomocou JetpackCompose, systémové projekty, menšie Java appky |
 
 > Repozitáre postupne vylepšujem – som na začiatku a učím sa.
 
