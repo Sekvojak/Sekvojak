@@ -71,7 +71,5 @@
 
 📧 Email: dominikkontrik123@gmail.com  
 
----
 
-> 🔥 *Každý expert bol raz začiatočník. Ja som teraz na ceste ⛳*
 
