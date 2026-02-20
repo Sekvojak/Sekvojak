@@ -1,75 +1,81 @@
-# 👋 Ahoj, som Dominik
+# 👋 Hi, I'm Dominik Kontrik
 
-🎓 3. ročník — Informatika @ VŠB-TU Ostrava  
-📍 Slovensko  
-💡 Baví ma vývoj softvéru, hry a IT systémy  
-🚀 Stále sa učím a posúvam ďalej
-
----
-
-### 🧰 Tech stack & skills
-
-#### 💻 Programovacie jazyky
-<div>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,kotlin" />
-</div>
-
-#### 🛠️ Frameworky & nástroje
-<div>
-  <img src="https://skillicons.dev/icons?i=spring,androidstudio,git,linux,maven,qt,bootstrap" />
-</div>
-
-#### 🗄️ Databázy
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</div>
-
-<p><strong>Najviac sa venujem Jave</strong> a pracoval som aj so Springom a JavaFX.</p>
+🎓 Computer Science student at VŠB–TU Ostrava  
+💻 Focus: Java Backend Development  
+📍 Slovakia / Ostrava  
 
 ---
 
-### 🕹️ Projekty, na ktorých som pracoval
+## 🔧 Tech Stack
 
-| Projekt | Popis |
-|--------|-------|
-| 🐸 **FrogMan (Java Game)** | Hra v Jave so Spring backendom + JavaFX frontendom |
-| 🎨 **ZPG Project** | Základy počítačovej grafiky — OpenGL rendering & 3D scény |
-| 🎓 Školské projekty | Sokoban hra pomocou JetpackCompose, systémové projekty, menšie Java appky |
+### Languages
+- Java
+- Kotlin
+- Python
+- C++
 
-> Repozitáre postupne vylepšujem – som na začiatku a učím sa.
+### Backend
+- Spring Boot
+- REST API
+- Maven
 
----
+### Databases
+- SQL (MySQL, SQLite)
 
-### 🎯 Ciele
-
-- ✅ Dokončiť bakalára
-- 💼 Získať prvú prax v IT
-- 📱 Zlepšovať sa v **Android vývoji (Kotlin)**
-- 🧠 Rozvíjať sa v **Jave, backende a počítačovej grafike**
-- 📈 Budovať projekty mimo školy
-
----
-
-### ✨ O mne krátko
-
-- Nehanbím sa priznať, že sa ešte učím — každý deň niečo nové
-- Najviac ma bavia **Android projekty** alebo **informačné systémy**
-- Java & Spring ma chytili, ale rád skúšam aj iné techy
+### Other
+- Git
+- Linux
+- OpenGL
 
 ---
 
-### 📊 GitHub štatistiky
+## 🚀 Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sekvojak&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sekvojak&theme=tokyonight" height="160" />
-</p>
+### 🐸 FrogMan – JavaFX + Spring Backend
+Client-server application with REST communication.
+
+**Features:**
+- User authentication  
+- Score persistence in database  
+- REST API between frontend and backend  
+- Layered backend architecture  
+
+➡️ [View Repository](LINK)
 
 ---
 
-### 📬 Kontakt
+### 🎬 Film Information System – Java / SQL / JavaFX
+Desktop information system with relational database model.
 
-📧 Email: dominikkontrik123@gmail.com  
+**Features:**
+- Database design  
+- CRUD operations  
+- User management  
 
+➡️ [View Repository](LINK)
 
+---
 
+### 🎨 3D Engine – C++ / OpenGL
+Custom implementation of a simple 3D rendering engine.
+
+**Features:**
+- Camera system  
+- Transformations  
+- Object rendering  
+- Scene management  
+
+➡️ [View Repository](LINK)
+
+---
+
+## 🎯 Career Focus
+
+Currently focused on backend development in Java and Spring Boot.  
+Seeking a junior backend developer position to gain commercial experience.
+
+---
+
+## 📬 Contact
+
+📧 dominikkontrik123@gmail.com
