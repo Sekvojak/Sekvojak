@@ -40,7 +40,7 @@ Client-server application with REST communication.
 - REST API between frontend and backend  
 - Layered backend architecture  
 
-➡️ [View Repository]([LINK](https://github.com/Sekvojak/FrogMan))
+➡️ [View Repository](https://github.com/Sekvojak/FrogMan)
 
 ---
 
@@ -52,7 +52,7 @@ Desktop information system with relational database model.
 - CRUD operations  
 - User management  
 
-➡️ [View Repository]([LINK](https://github.com/Sekvojak/film-series-is))
+➡️ [View Repository](https://github.com/Sekvojak/film-series-is)
 
 ---
 
@@ -63,9 +63,9 @@ Custom implementation of a simple 3D rendering engine.
 - Camera system  
 - Transformations  
 - Object rendering  
-- Scene management  
+- Scene management
 
-➡️ [View Repository]([LINK](https://github.com/Sekvojak/zpg_project))
+➡️ [View Repository](https://github.com/Sekvojak/zpg_project)
 
 ---
 
