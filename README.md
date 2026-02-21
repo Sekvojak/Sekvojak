@@ -12,7 +12,7 @@
 - Java
 - Kotlin
 - Python
-- C++
+- C/C++
 
 ### Backend
 - Spring Boot
