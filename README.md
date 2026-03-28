@@ -87,12 +87,6 @@ Looking for a junior position or internship.
 
 ---
 
-## Contact
-
-dominikkontrik123@gmail.com
-
----
-
 ## 📬 Contact
 
 📧 dominikkontrik123@gmail.com
