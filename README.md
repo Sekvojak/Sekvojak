@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dominik Kontrik
+# Hi, I'm Dominik Kontrik
 
 🎓 Computer Science student at VŠB–TU Ostrava  
 💻 Focus: Java Backend Development  
@@ -20,7 +20,7 @@
 - Maven
 
 ### Databases
-- SQL (MySQL, SQLite)
+- SQL (MS SQL, Postgre SQL)
 
 ### Other
 - Git
@@ -30,6 +30,15 @@
 ---
 
 ## 🚀 Selected Projects
+
+### Theatre Reservation System – Java / Spring Boot / SQL
+Backend application for managing theatre reservations.
+
+- REST API and client-server communication  
+- Database design and data handling  
+- Reservation logic and user management  
+
+[View Repository](https://github.com/Sekvojak/theater_ticket_reservation_system/tree/deploy/railway-neon)
 
 ### 🐸 FrogMan – JavaFX + Spring Backend
 Client-server application with REST communication.
@@ -71,8 +80,16 @@ Custom implementation of a simple 3D rendering engine.
 
 ## 🎯 Career Focus
 
-Currently focused on backend development in Java and Spring Boot.  
-Seeking a junior backend developer position to gain commercial experience.
+## Career Focus
+
+Backend development in Java and Spring Boot.  
+Looking for a junior position or internship.
+
+---
+
+## Contact
+
+dominikkontrik123@gmail.com
 
 ---
 
